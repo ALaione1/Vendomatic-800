@@ -1,0 +1,39 @@
+Report datetime: 12/18/2022 09:51:22 PM
+Potato Crisps| 3
+Stackers| 0
+Grain Waves| 0
+Cloud Popcorn| 0
+Moonpie| 0
+Cowtales| 1
+Wonka Bar| 0
+Crunchie| 1
+Cola| 1
+Dr. Salt| 0
+Mountain Melter| 1
+Heavy| 1
+U-Chews| 0
+Little League Chew| 0
+Chiclets| 0
+Triplemint| 3
+
+***TOTAL SALES*** $19.40
+
+Report datetime: 12/18/2022 09:55:26 PM 
+Potato Crisps| 3
+Stackers| 0
+Grain Waves| 0
+Cloud Popcorn| 2
+Moonpie| 0
+Cowtales| 0
+Wonka Bar| 0
+Crunchie| 0
+Cola| 0
+Dr. Salt| 0
+Mountain Melter| 0
+Heavy| 0
+U-Chews| 1
+Little League Chew| 0
+Chiclets| 2
+Triplemint| 1
+
+***TOTAL SALES*** $19.55

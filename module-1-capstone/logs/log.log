@@ -1,0 +1,577 @@
+12/18/2022 07:14:28 PM Start vending machine !
+12/18/2022 07:14:43 PM Transaction : #1671412483751 status OPEN
+12/18/2022 07:14:46 PM Transaction : #1671412483751 status PENDING
+12/18/2022 07:14:46 PM Feed Money
+12/18/2022 07:15:01 PM FEED MONEY($TEN) $10.00 $10.00
+12/18/2022 07:15:08 PM Transaction : #1671412483751 status PENDING
+12/18/2022 07:15:08 PM Feed Money
+12/18/2022 07:15:12 PM FEED MONEY($FIVE) $5.00 $15.00
+12/18/2022 07:15:14 PM Transaction : #1671412483751 status PENDING
+12/18/2022 07:15:14 PM Select Product
+12/18/2022 07:15:18 PM 101 Potato Crisps 3.05 $11.95
+12/18/2022 07:15:31 PM Transaction : #1671412483751 status PENDING
+12/18/2022 07:15:31 PM Select Product
+12/18/2022 07:15:36 PM 201 Moonpie 1.8 $10.15
+12/18/2022 07:15:37 PM Transaction : #1671412483751 status PENDING
+12/18/2022 07:15:37 PM Select Product
+12/18/2022 07:15:40 PM 101 Potato Crisps 3.05 $7.10
+12/18/2022 07:15:47 PM Transaction : #1671412483751 status PENDING
+12/18/2022 07:15:47 PM Select Product
+12/18/2022 07:15:55 PM 302 Dr. Salt 1.25 $5.85
+12/18/2022 07:15:57 PM Transaction : #1671412483751 status PENDING
+12/18/2022 07:15:57 PM Select Product
+12/18/2022 07:16:01 PM 103 Grain Waves 2.75 $3.10
+12/18/2022 07:16:07 PM Transaction : #1671412483751 status PENDING
+12/18/2022 07:16:07 PM Select Product
+12/18/2022 07:16:11 PM 401 U-Chews 0.85 $2.25
+12/18/2022 07:16:13 PM Transaction : #1671412483751 status PENDING
+12/18/2022 07:16:13 PM Select Product
+12/18/2022 07:16:18 PM 404 Triplemint 0.75 $1.50
+12/18/2022 07:16:23 PM Transaction : #1671412483751 status PENDING
+12/18/2022 07:16:23 PM Finish Transaction
+12/18/2022 07:16:23 PM GIVE CHANGE $1.50 $0.00
+12/18/2022 07:16:23 PM Transaction : #1671412483751 status CLOSED
+12/18/2022 07:17:12 PM Transaction : #1671412632487 status OPEN
+12/18/2022 07:17:18 PM Transaction : #1671412632487 status PENDING
+12/18/2022 07:17:18 PM Select Product
+12/18/2022 07:17:31 PM Transaction : #1671412632487 status PENDING
+12/18/2022 07:17:31 PM Select Product
+12/18/2022 07:17:45 PM Transaction : #1671412632487 status PENDING
+12/18/2022 07:17:45 PM Feed Money
+12/18/2022 07:17:51 PM FEED MONEY(QUARTER) $0.25 $0.25
+12/18/2022 07:17:53 PM Transaction : #1671412632487 status PENDING
+12/18/2022 07:17:53 PM Feed Money
+12/18/2022 07:17:55 PM FEED MONEY(QUARTER) $0.25 $0.50
+12/18/2022 07:17:59 PM Transaction : #1671412632487 status PENDING
+12/18/2022 07:17:59 PM Feed Money
+12/18/2022 07:18:12 PM FEED MONEY(QUARTER) $0.25 $0.75
+12/18/2022 07:18:15 PM Transaction : #1671412632487 status PENDING
+12/18/2022 07:18:15 PM Select Product
+12/18/2022 07:18:18 PM 404 Triplemint 0.75 $0.00
+12/18/2022 07:18:23 PM Transaction : #1671412632487 status PENDING
+12/18/2022 07:18:23 PM Select Product
+12/18/2022 07:18:47 PM Transaction : #1671412632487 status PENDING
+12/18/2022 07:18:47 PM Finish Transaction
+12/18/2022 07:18:47 PM GIVE CHANGE $0.00 $0.00
+12/18/2022 07:18:47 PM Transaction : #1671412632487 status CLOSED
+12/18/2022 07:19:11 PM Transaction : #1671412751415 status OPEN
+12/18/2022 07:19:15 PM Transaction : #1671412751415 status PENDING
+12/18/2022 07:19:15 PM Feed Money
+12/18/2022 07:19:23 PM FEED MONEY($TWENTY) $20.00 $20.00
+12/18/2022 07:19:26 PM Transaction : #1671412751415 status PENDING
+12/18/2022 07:19:26 PM Select Product
+12/18/2022 07:19:31 PM 101 Potato Crisps 3.05 $16.95
+12/18/2022 07:19:32 PM Transaction : #1671412751415 status PENDING
+12/18/2022 07:19:32 PM Select Product
+12/18/2022 07:19:33 PM 101 Potato Crisps 3.05 $13.90
+12/18/2022 07:19:34 PM Transaction : #1671412751415 status PENDING
+12/18/2022 07:19:34 PM Select Product
+12/18/2022 07:19:35 PM 101 Potato Crisps 3.05 $10.85
+12/18/2022 07:19:37 PM Transaction : #1671412751415 status PENDING
+12/18/2022 07:19:37 PM Select Product
+12/18/2022 07:19:41 PM Potato Crisps is out of stock
+12/18/2022 07:19:48 PM Transaction : #1671412751415 status PENDING
+12/18/2022 07:19:48 PM Finish Transaction
+12/18/2022 07:19:48 PM GIVE CHANGE $10.85 $0.00
+12/18/2022 07:19:48 PM Transaction : #1671412751415 status CLOSED
+12/18/2022 07:20:38 PM Transaction : #1671412838453 status OPEN
+12/18/2022 07:20:42 PM Transaction : #1671412838453 status PENDING
+12/18/2022 07:20:42 PM Feed Money
+12/18/2022 07:20:45 PM FEED MONEY($ONE) $1.00 $1.00
+12/18/2022 07:20:47 PM Transaction : #1671412838453 status PENDING
+12/18/2022 07:20:47 PM Select Product
+12/18/2022 07:20:49 PM Potato Crisps is out of stock
+12/18/2022 07:21:01 PM Transaction : #1671412838453 status PENDING
+12/18/2022 07:21:01 PM Finish Transaction
+12/18/2022 07:21:01 PM GIVE CHANGE $1.00 $0.00
+12/18/2022 07:21:01 PM Transaction : #1671412838453 status CLOSED
+12/18/2022 09:48:21 PM Start vending machine !
+12/18/2022 09:48:31 PM Transaction : #1671421711078 status OPEN
+12/18/2022 09:48:32 PM Transaction : #1671421711078 status PENDING
+12/18/2022 09:48:32 PM Feed Money
+12/18/2022 09:48:36 PM FEED MONEY($TWENTY) $20.00 $20.00
+12/18/2022 09:48:40 PM Transaction : #1671421711078 status PENDING
+12/18/2022 09:48:40 PM Select Product
+12/18/2022 09:48:42 PM 101 Potato Crisps $3.05 $16.95
+12/18/2022 09:50:24 PM Start vending machine !
+12/18/2022 09:50:27 PM Transaction : #1671421827507 status OPEN
+12/18/2022 09:50:29 PM Transaction : #1671421827507 status PENDING
+12/18/2022 09:50:29 PM Feed Money
+12/18/2022 09:50:32 PM FEED MONEY($TWENTY) $20.00 $20.00
+12/18/2022 09:50:37 PM Transaction : #1671421827507 status PENDING
+12/18/2022 09:50:37 PM Select Product
+12/18/2022 09:50:40 PM 101 Potato Crisps $3.05 $16.95
+12/18/2022 09:50:41 PM Transaction : #1671421827507 status PENDING
+12/18/2022 09:50:41 PM Select Product
+12/18/2022 09:50:45 PM 101 Potato Crisps $3.05 $13.90
+12/18/2022 09:50:47 PM Transaction : #1671421827507 status PENDING
+12/18/2022 09:50:47 PM Select Product
+12/18/2022 09:50:48 PM 101 Potato Crisps $3.05 $10.85
+12/18/2022 09:50:50 PM Transaction : #1671421827507 status PENDING
+12/18/2022 09:50:50 PM Select Product
+12/18/2022 09:50:52 PM 404 Triplemint $0.75 $10.10
+12/18/2022 09:50:53 PM Transaction : #1671421827507 status PENDING
+12/18/2022 09:50:53 PM Select Product
+12/18/2022 09:50:57 PM 303 Mountain Melter $1.50 $8.60
+12/18/2022 09:50:59 PM Transaction : #1671421827507 status PENDING
+12/18/2022 09:50:59 PM Select Product
+12/18/2022 09:51:02 PM 204 Crunchie $1.75 $6.85
+12/18/2022 09:51:06 PM Transaction : #1671421827507 status PENDING
+12/18/2022 09:51:06 PM Select Product
+12/18/2022 09:51:08 PM 202 Cowtales $1.50 $5.35
+12/18/2022 09:51:12 PM Transaction : #1671421827507 status PENDING
+12/18/2022 09:51:12 PM Select Product
+12/18/2022 09:51:15 PM 404 Triplemint $0.75 $4.60
+12/18/2022 09:51:17 PM Transaction : #1671421827507 status PENDING
+12/18/2022 09:51:17 PM Select Product
+12/18/2022 09:51:21 PM 404 Triplemint $0.75 $3.85
+12/18/2022 09:51:23 PM Transaction : #1671421827507 status PENDING
+12/18/2022 09:51:23 PM Select Product
+12/18/2022 09:51:33 PM 301 Cola $1.75 $2.10
+12/18/2022 09:51:36 PM Transaction : #1671421827507 status PENDING
+12/18/2022 09:51:36 PM Select Product
+12/18/2022 09:51:40 PM 304 Heavy $1.50 $0.60
+12/18/2022 09:51:48 PM Transaction : #1671421827507 status PENDING
+12/18/2022 09:51:48 PM Finish Transaction
+12/18/2022 09:51:48 PM GIVE CHANGE $0.60 $0.00
+12/18/2022 09:51:48 PM Transaction : #1671421827507 status CLOSED
+12/18/2022 09:53:54 PM Start vending machine !
+12/18/2022 09:54:00 PM Transaction : #1671422040313 status OPEN
+12/18/2022 09:54:02 PM Transaction : #1671422040313 status PENDING
+12/18/2022 09:54:02 PM Feed Money
+12/18/2022 09:54:05 PM FEED MONEY($TWENTY) $20.00 $20.00
+12/18/2022 09:54:08 PM Transaction : #1671422040313 status PENDING
+12/18/2022 09:54:08 PM Select Product
+12/18/2022 09:54:09 PM 101 Potato Crisps $3.05 $16.95
+12/18/2022 09:54:10 PM Transaction : #1671422040313 status PENDING
+12/18/2022 09:54:10 PM Select Product
+12/18/2022 09:54:11 PM 101 Potato Crisps $3.05 $13.90
+12/18/2022 09:54:12 PM Transaction : #1671422040313 status PENDING
+12/18/2022 09:54:12 PM Select Product
+12/18/2022 09:54:14 PM 101 Potato Crisps $3.05 $10.85
+12/18/2022 09:54:17 PM Transaction : #1671422040313 status PENDING
+12/18/2022 09:54:17 PM Select Product
+12/18/2022 09:54:21 PM 401 U-Chews $0.85 $10.00
+12/18/2022 09:54:22 PM Transaction : #1671422040313 status PENDING
+12/18/2022 09:54:22 PM Select Product
+12/18/2022 09:54:26 PM 403 Chiclets $0.75 $9.25
+12/18/2022 09:54:28 PM Transaction : #1671422040313 status PENDING
+12/18/2022 09:54:28 PM Select Product
+12/18/2022 09:54:35 PM 104 Cloud Popcorn $3.65 $5.60
+12/18/2022 09:54:37 PM Transaction : #1671422040313 status PENDING
+12/18/2022 09:54:37 PM Select Product
+12/18/2022 09:54:39 PM 104 Cloud Popcorn $3.65 $1.95
+12/18/2022 09:54:41 PM Transaction : #1671422040313 status PENDING
+12/18/2022 09:54:41 PM Select Product
+12/18/2022 09:54:48 PM 404 Triplemint $0.75 $1.20
+12/18/2022 09:54:51 PM Transaction : #1671422040313 status PENDING
+12/18/2022 09:54:51 PM Select Product
+12/18/2022 09:54:59 PM 403 Chiclets $0.75 $0.45
+12/18/2022 09:55:02 PM Transaction : #1671422040313 status PENDING
+12/18/2022 09:55:02 PM Select Product
+12/18/2022 09:55:19 PM Transaction : #1671422040313 status PENDING
+12/18/2022 09:55:19 PM Finish Transaction
+12/18/2022 09:55:19 PM GIVE CHANGE $0.45 $0.00
+12/18/2022 09:55:19 PM Transaction : #1671422040313 status CLOSED
+12/18/2022 11:33:06 PM Start vending machine !
+12/18/2022 11:33:16 PM Transaction : #1671427996733 status OPEN
+12/18/2022 11:33:18 PM Transaction : #1671427996733 status PENDING
+12/18/2022 11:33:18 PM Feed Money
+12/18/2022 11:33:20 PM FEED MONEY($ONE) $1.00 $1.00
+12/18/2022 11:33:22 PM Transaction : #1671427996733 status PENDING
+12/18/2022 11:33:22 PM Feed Money
+12/18/2022 11:33:24 PM FEED MONEY($ONE) $1.00 $2.00
+12/18/2022 11:33:25 PM Transaction : #1671427996733 status PENDING
+12/18/2022 11:33:25 PM Feed Money
+12/18/2022 11:33:27 PM FEED MONEY($ONE) $1.00 $3.00
+12/18/2022 11:33:28 PM Transaction : #1671427996733 status PENDING
+12/18/2022 11:33:28 PM Feed Money
+12/18/2022 11:33:30 PM FEED MONEY($ONE) $1.00 $4.00
+12/18/2022 11:33:32 PM Transaction : #1671427996733 status PENDING
+12/18/2022 11:33:32 PM Select Product
+12/18/2022 11:33:36 PM 401 U-Chews $0.85 $3.15
+12/18/2022 11:33:37 PM Transaction : #1671427996733 status PENDING
+12/18/2022 11:33:37 PM Select Product
+12/18/2022 11:33:40 PM 302 Dr. Salt $1.25 $1.90
+12/18/2022 11:33:43 PM Transaction : #1671427996733 status PENDING
+12/18/2022 11:33:43 PM Select Product
+12/18/2022 11:33:50 PM 303 Mountain Melter $1.50 $0.40
+12/18/2022 11:33:53 PM Transaction : #1671427996733 status PENDING
+12/18/2022 11:33:53 PM Finish Transaction
+12/18/2022 11:33:53 PM GIVE CHANGE $0.40 $0.00
+12/18/2022 11:33:53 PM Transaction : #1671427996733 status CLOSED
+12/18/2022 11:40:28 PM Start vending machine !
+12/18/2022 11:40:43 PM Displaying product...
+12/18/2022 11:40:45 PM Transaction : #1671428445782 status OPEN
+12/18/2022 11:40:47 PM Transaction : #1671428445782 PENDING Customer option selection...
+12/18/2022 11:40:47 PM Feed Money
+12/18/2022 11:40:52 PM FEED MONEY($FIVE) $5.00 $5.00
+12/18/2022 11:40:55 PM Transaction : #1671428445782 PENDING Customer option selection...
+12/18/2022 11:40:55 PM Feed Money
+12/18/2022 11:41:02 PM FEED MONEY(DIME) $0.10 $5.10
+12/18/2022 11:41:05 PM Transaction : #1671428445782 PENDING Customer option selection...
+12/18/2022 11:41:05 PM Feed Money
+12/18/2022 11:41:09 PM FEED MONEY(NICKLE) $0.05 $5.15
+12/18/2022 11:41:11 PM Transaction : #1671428445782 PENDING Customer option selection...
+12/18/2022 11:41:11 PM Select Product
+12/18/2022 11:41:14 PM 101 Potato Crisps $3.05 $2.10
+12/18/2022 11:41:17 PM Transaction : #1671428445782 PENDING Customer option selection...
+12/18/2022 11:41:17 PM Select Product
+12/18/2022 11:41:19 PM 401 U-Chews $0.85 $1.25
+12/18/2022 11:41:22 PM Transaction : #1671428445782 PENDING Customer option selection...
+12/18/2022 11:41:22 PM Select Product
+12/18/2022 11:41:27 PM Transaction : #1671428445782 PENDING Customer option selection...
+12/18/2022 11:41:27 PM Select Product
+12/18/2022 11:41:44 PM Transaction : #1671428445782 PENDING Customer option selection...
+12/18/2022 11:41:44 PM Select Product
+12/18/2022 11:41:49 PM 404 Triplemint $0.75 $0.50
+12/18/2022 11:41:51 PM Transaction : #1671428445782 PENDING Customer option selection...
+12/18/2022 11:41:51 PM Finish Transaction
+12/18/2022 11:41:51 PM GIVE CHANGE $0.50 $0.00
+12/18/2022 11:41:51 PM Transaction : #1671428445782 status CLOSED
+12/18/2022 11:44:31 PM Start vending machine !
+12/18/2022 11:44:34 PM Displaying product...
+12/18/2022 11:44:36 PM Displaying product...
+12/18/2022 11:44:38 PM Transaction : #1671428678110 status OPEN
+12/18/2022 11:44:43 PM Transaction : #1671428678110 PENDING Customer option selection...
+12/18/2022 11:44:43 PM Feed Money
+12/18/2022 11:44:49 PM FEED MONEY($TEN) $10.00 $10.00
+12/18/2022 11:44:52 PM Transaction : #1671428678110 PENDING Customer option selection...
+12/18/2022 11:44:52 PM Feed Money
+12/18/2022 11:44:55 PM FEED MONEY($FIFTY) $0.00 $10.00
+12/18/2022 11:44:56 PM Transaction : #1671428678110 PENDING Customer option selection...
+12/18/2022 11:44:56 PM Select Product
+12/18/2022 11:44:58 PM 101 Potato Crisps $3.05 $6.95
+12/18/2022 11:44:59 PM Transaction : #1671428678110 PENDING Customer option selection...
+12/18/2022 11:44:59 PM Select Product
+12/18/2022 11:45:00 PM 101 Potato Crisps $3.05 $3.90
+12/18/2022 11:45:14 PM Transaction : #1671428678110 PENDING Customer option selection...
+12/18/2022 11:45:14 PM Select Product
+12/18/2022 11:45:16 PM 401 U-Chews $0.85 $3.05
+12/18/2022 11:45:17 PM Transaction : #1671428678110 PENDING Customer option selection...
+12/18/2022 11:45:17 PM Select Product
+12/18/2022 11:45:22 PM 404 Triplemint $0.75 $2.30
+12/18/2022 11:45:25 PM Transaction : #1671428678110 PENDING Customer option selection...
+12/18/2022 11:45:25 PM Select Product
+12/18/2022 11:45:28 PM failed selection of : Potato Crisps need more credit : $%.2f0.7499999999999991
+12/18/2022 11:45:31 PM Transaction : #1671428678110 PENDING Customer option selection...
+12/18/2022 11:45:31 PM Select Product
+12/18/2022 11:45:36 PM 102 Stackers $1.45 $0.85
+12/18/2022 11:45:42 PM Transaction : #1671428678110 PENDING Customer option selection...
+12/18/2022 11:45:42 PM Finish Transaction
+12/18/2022 11:45:42 PM GIVE CHANGE $0.85 $0.00
+12/18/2022 11:45:42 PM Transaction : #1671428678110 status CLOSED
+12/18/2022 11:45:45 PM Vending Machine Turn off
+12/19/2022 12:43:42 AM Start vending machine !
+12/19/2022 12:43:44 AM Displaying product...
+12/19/2022 12:43:46 AM Transaction : #1671432226464 status OPEN
+12/19/2022 12:43:47 AM Transaction : #1671432226464 PENDING Customer option selection...
+12/19/2022 12:43:47 AM Feed Money
+12/19/2022 12:43:50 AM FEED MONEY($ONE) $1.00 $1.00
+12/19/2022 12:43:53 AM Transaction : #1671432226464 PENDING Customer option selection...
+12/19/2022 12:43:53 AM Feed Money
+12/19/2022 12:43:57 AM FEED MONEY(QUARTER) $0.25 $1.25
+12/19/2022 12:43:59 AM Transaction : #1671432226464 PENDING Customer option selection...
+12/19/2022 12:43:59 AM Feed Money
+12/19/2022 12:44:06 AM FEED MONEY(QUARTER) $0.25 $1.50
+12/19/2022 12:47:51 AM Transaction : #1671432226464 PENDING Customer option selection...
+12/19/2022 12:47:51 AM Feed Money
+12/19/2022 12:47:58 AM FEED MONEY(QUARTER) $0.25 $1.75
+12/19/2022 12:48:01 AM Transaction : #1671432226464 PENDING Customer option selection...
+12/19/2022 12:48:01 AM Select Product
+12/19/2022 12:48:04 AM 404 Triplemint $0.75 $1.00
+12/19/2022 12:48:09 AM Transaction : #1671432226464 PENDING Customer option selection...
+12/19/2022 12:48:09 AM Select Product
+12/19/2022 12:48:11 AM 404 Triplemint $0.75 $0.25
+12/19/2022 12:48:14 AM Transaction : #1671432226464 PENDING Customer option selection...
+12/19/2022 12:48:14 AM Finish Transaction
+12/19/2022 12:48:14 AM GIVE CHANGE $0.25 $0.00
+12/19/2022 12:48:14 AM Transaction : #1671432226464 status CLOSED
+12/19/2022 07:17:26 PM Start vending machine !
+12/19/2022 07:17:28 PM Displaying product...
+12/19/2022 07:17:30 PM Transaction : #1671499050106 status OPEN
+12/19/2022 07:17:31 PM Transaction : #1671499050106 PENDING Customer option selection...
+12/19/2022 07:17:31 PM Feed Money
+12/19/2022 07:17:34 PM FEED MONEY($FIVE) $5.00 $5.00
+12/19/2022 07:17:38 PM Transaction : #1671499050106 PENDING Customer option selection...
+12/19/2022 07:17:38 PM Select Product
+12/19/2022 07:17:44 PM 101 Potato Crisps $3.05 $1.95
+12/19/2022 07:17:47 PM Transaction : #1671499050106 PENDING Customer option selection...
+12/19/2022 07:17:47 PM Select Product
+12/19/2022 07:17:52 PM 404 Triplemint $0.75 $1.20
+12/19/2022 07:18:01 PM Transaction : #1671499050106 PENDING Customer option selection...
+12/19/2022 07:18:01 PM Select Product
+12/19/2022 07:18:16 PM 401 U-Chews $0.85 $0.35
+12/19/2022 07:18:18 PM Transaction : #1671499050106 PENDING Customer option selection...
+12/19/2022 07:18:18 PM Select Product
+12/19/2022 07:18:21 PM failed selection of : Potato Crisps need more credit :$2.70
+12/19/2022 07:18:51 PM Transaction : #1671499050106 PENDING Customer option selection...
+12/19/2022 07:18:51 PM Finish Transaction
+12/19/2022 07:18:51 PM GIVE CHANGE $0.35 $0.00
+12/19/2022 07:18:51 PM Transaction : #1671499050106 status CLOSED
+12/19/2022 07:19:06 PM Sales report generating...
+12/19/2022 07:19:06 PM Sales report generating done...
+12/19/2022 07:19:16 PM Vending Machine Turn off
+12/19/2022 10:13:53 PM Start vending machine !
+12/19/2022 10:13:57 PM Transaction : #1671509637213 status OPEN
+12/19/2022 10:13:58 PM Transaction : #1671509637213 PENDING Customer option selection...
+12/19/2022 10:13:58 PM Feed Money
+12/19/2022 10:14:01 PM FEED MONEY(PENNY) $0.01 $0.01
+12/19/2022 10:14:04 PM Transaction : #1671509637213 PENDING Customer option selection...
+12/19/2022 10:14:04 PM Feed Money
+12/19/2022 10:14:09 PM FEED MONEY(QUARTER) $0.25 $0.26
+12/19/2022 10:14:10 PM Transaction : #1671509637213 PENDING Customer option selection...
+12/19/2022 10:14:10 PM Feed Money
+12/19/2022 10:14:12 PM FEED MONEY(QUARTER) $0.25 $0.51
+12/19/2022 10:14:15 PM Transaction : #1671509637213 PENDING Customer option selection...
+12/19/2022 10:14:15 PM Feed Money
+12/19/2022 10:14:20 PM FEED MONEY(QUARTER) $0.25 $0.76
+12/19/2022 10:14:24 PM Transaction : #1671509637213 PENDING Customer option selection...
+12/19/2022 10:14:24 PM Feed Money
+12/19/2022 10:14:30 PM FEED MONEY(DIME) $0.10 $0.86
+12/19/2022 10:14:44 PM Transaction : #1671509637213 PENDING Customer option selection...
+12/19/2022 10:14:44 PM Finish Transaction
+12/19/2022 10:14:44 PM GIVE CHANGE $0.86 $0.00
+12/19/2022 10:14:44 PM Transaction : #1671509637213 status CLOSED
+12/19/2022 10:27:16 PM Start vending machine !
+12/19/2022 10:28:19 PM Sales report generating...
+12/19/2022 10:28:19 PM Sales report generating done...
+12/20/2022 09:34:34 PM Start vending machine !
+12/20/2022 09:34:40 PM Displaying product...
+12/20/2022 09:34:41 PM Transaction : #1671593681977 status OPEN
+12/20/2022 09:34:43 PM Transaction : #1671593681977 PENDING Customer option selection...
+12/20/2022 09:34:43 PM Feed Money
+12/20/2022 09:34:56 PM FEED MONEY($TEN) $10.00 $10.00
+12/20/2022 09:34:59 PM Transaction : #1671593681977 PENDING Customer option selection...
+12/20/2022 09:34:59 PM Select Product
+12/20/2022 09:35:01 PM 101 Potato Crisps $3.05 $6.95
+12/20/2022 09:35:03 PM Transaction : #1671593681977 PENDING Customer option selection...
+12/20/2022 09:35:03 PM Select Product
+12/20/2022 09:35:04 PM 101 Potato Crisps $3.05 $3.90
+12/20/2022 09:35:06 PM Transaction : #1671593681977 PENDING Customer option selection...
+12/20/2022 09:35:06 PM Select Product
+12/20/2022 09:35:13 PM 404 Triplemint $0.75 $3.15
+12/20/2022 09:35:16 PM Transaction : #1671593681977 PENDING Customer option selection...
+12/20/2022 09:35:16 PM Select Product
+12/20/2022 09:35:19 PM 301 Cola $1.75 $1.40
+12/20/2022 09:35:21 PM Transaction : #1671593681977 PENDING Customer option selection...
+12/20/2022 09:35:21 PM Select Product
+12/20/2022 09:35:23 PM 401 U-Chews $0.85 $0.55
+12/20/2022 09:35:26 PM Transaction : #1671593681977 PENDING Customer option selection...
+12/20/2022 09:35:26 PM Finish Transaction
+12/20/2022 09:35:27 PM GIVE CHANGE $0.55 $0.00
+12/20/2022 09:35:27 PM Transaction : #1671593681977 status CLOSED
+12/20/2022 09:35:48 PM Sales report generating...
+12/20/2022 09:35:48 PM Sales report generating done...
+12/20/2022 10:27:22 PM Start vending machine !
+12/20/2022 10:27:26 PM Displaying product...
+12/20/2022 10:27:32 PM Transaction : #1671596852392 status OPEN
+12/20/2022 10:27:33 PM Transaction : #1671596852392 PENDING Customer option selection...
+12/20/2022 10:27:33 PM Feed Money
+12/20/2022 10:27:37 PM FEED MONEY($TEN) $10.00 $10.00
+12/20/2022 10:27:39 PM Transaction : #1671596852392 PENDING Customer option selection...
+12/20/2022 10:27:39 PM Feed Money
+12/20/2022 10:27:46 PM FEED MONEY($FIVE) $5.00 $15.00
+12/20/2022 10:27:47 PM Transaction : #1671596852392 PENDING Customer option selection...
+12/20/2022 10:27:47 PM Select Product
+12/20/2022 10:27:49 PM 101 Potato Crisps $3.05 $11.95
+12/20/2022 10:27:51 PM Transaction : #1671596852392 PENDING Customer option selection...
+12/20/2022 10:27:51 PM Select Product
+12/20/2022 10:27:52 PM 101 Potato Crisps $3.05 $8.90
+12/20/2022 10:27:53 PM Transaction : #1671596852392 PENDING Customer option selection...
+12/20/2022 10:27:53 PM Select Product
+12/20/2022 10:27:55 PM 101 Potato Crisps $3.05 $5.85
+12/20/2022 10:27:57 PM Transaction : #1671596852392 PENDING Customer option selection...
+12/20/2022 10:27:57 PM Select Product
+12/20/2022 10:27:58 PM 101 Potato Crisps $3.05 $2.80
+12/20/2022 10:28:01 PM Transaction : #1671596852392 PENDING Customer option selection...
+12/20/2022 10:28:01 PM Select Product
+12/20/2022 10:28:03 PM 303 Mountain Melter $1.50 $1.30
+12/20/2022 10:28:04 PM Transaction : #1671596852392 PENDING Customer option selection...
+12/20/2022 10:28:04 PM Select Product
+12/20/2022 10:28:07 PM 404 Triplemint $0.75 $0.55
+12/20/2022 10:28:10 PM Transaction : #1671596852392 PENDING Customer option selection...
+12/20/2022 10:28:10 PM Finish Transaction
+12/20/2022 10:28:10 PM GIVE CHANGE $0.55 $0.00
+12/20/2022 10:28:10 PM Transaction : #1671596852392 status CLOSED
+12/20/2022 10:28:33 PM Displaying product...
+12/20/2022 10:28:39 PM Transaction : #1671596919719 status OPEN
+12/20/2022 10:28:41 PM Transaction : #1671596919719 PENDING Customer option selection...
+12/20/2022 10:28:41 PM Feed Money
+12/20/2022 10:28:45 PM FEED MONEY($FIVE) $5.00 $5.00
+12/20/2022 10:28:47 PM Transaction : #1671596919719 PENDING Customer option selection...
+12/20/2022 10:28:47 PM Select Product
+12/20/2022 10:28:50 PM 101 Potato Crisps $3.05 $1.95
+12/20/2022 10:28:52 PM Transaction : #1671596919719 PENDING Customer option selection...
+12/20/2022 10:28:52 PM Select Product
+12/20/2022 10:28:53 PM Potato Crisps is out of stock
+12/20/2022 10:29:01 PM Transaction : #1671596919719 PENDING Customer option selection...
+12/20/2022 10:29:01 PM Select Product
+12/20/2022 10:29:04 PM 403 Chiclets $0.75 $1.20
+12/20/2022 10:29:12 PM Transaction : #1671596919719 PENDING Customer option selection...
+12/20/2022 10:29:12 PM Select Product
+12/20/2022 10:29:23 PM 403 Chiclets $0.75 $0.45
+12/20/2022 10:29:26 PM Transaction : #1671596919719 PENDING Customer option selection...
+12/20/2022 10:29:26 PM Finish Transaction
+12/20/2022 10:29:26 PM GIVE CHANGE $0.45 $0.00
+12/20/2022 10:29:26 PM Transaction : #1671596919719 status CLOSED
+12/20/2022 10:29:32 PM Sales report generating...
+12/20/2022 10:29:32 PM Sales report generating done...
+12/20/2022 10:29:38 PM Displaying product...
+12/20/2022 10:29:42 PM Vending Machine Turn off
+12/20/2022 10:58:59 PM Start vending machine !
+12/20/2022 10:59:10 PM Displaying product...
+12/20/2022 11:23:39 PM Start vending machine !
+12/20/2022 11:27:27 PM Start vending machine !
+12/20/2022 11:27:30 PM Displaying product...
+12/20/2022 11:27:46 PM Transaction : #1671600466175 status OPEN
+12/20/2022 11:27:48 PM Transaction : #1671600466175 PENDING Customer option selection...
+12/20/2022 11:27:48 PM Feed Money
+12/20/2022 11:28:03 PM FEED MONEY($TEN) $10.00 $10.00
+12/20/2022 11:28:16 PM Transaction : #1671600466175 PENDING Customer option selection...
+12/20/2022 11:28:16 PM Feed Money
+12/20/2022 11:28:20 PM FEED MONEY(QUARTER) $0.25 $10.25
+12/20/2022 11:28:31 PM Transaction : #1671600466175 PENDING Customer option selection...
+12/20/2022 11:28:31 PM Feed Money
+12/20/2022 11:28:36 PM FEED MONEY(DIME) $0.10 $10.35
+12/20/2022 11:28:39 PM Transaction : #1671600466175 PENDING Customer option selection...
+12/20/2022 11:28:39 PM Select Product
+12/20/2022 11:28:42 PM 101 Potato Crisps $3.05 $7.30
+12/20/2022 11:28:55 PM Transaction : #1671600466175 PENDING Customer option selection...
+12/20/2022 11:28:55 PM Select Product
+12/20/2022 11:28:57 PM 101 Potato Crisps $3.05 $4.25
+12/20/2022 11:28:58 PM Transaction : #1671600466175 PENDING Customer option selection...
+12/20/2022 11:28:58 PM Select Product
+12/20/2022 11:29:00 PM 404 Triplemint $0.75 $3.50
+12/20/2022 11:29:02 PM Transaction : #1671600466175 PENDING Customer option selection...
+12/20/2022 11:29:02 PM Select Product
+12/20/2022 11:29:05 PM 303 Mountain Melter $1.50 $2.00
+12/20/2022 11:29:09 PM Transaction : #1671600466175 PENDING Customer option selection...
+12/20/2022 11:29:09 PM Select Product
+12/20/2022 11:29:13 PM failed selection of : Potato Crisps need more credit :$1.05
+12/20/2022 11:29:24 PM Transaction : #1671600466175 PENDING Customer option selection...
+12/20/2022 11:29:24 PM Select Product
+12/20/2022 11:29:28 PM 301 Cola $1.75 $0.25
+12/20/2022 11:29:34 PM Transaction : #1671600466175 PENDING Customer option selection...
+12/20/2022 11:29:34 PM Feed Money
+12/20/2022 11:29:43 PM FEED MONEY($ONE) $1.00 $1.25
+12/20/2022 11:29:45 PM Transaction : #1671600466175 PENDING Customer option selection...
+12/20/2022 11:29:45 PM Select Product
+12/20/2022 11:29:47 PM 404 Triplemint $0.75 $0.50
+12/20/2022 11:29:52 PM Transaction : #1671600466175 PENDING Customer option selection...
+12/20/2022 11:29:52 PM Finish Transaction
+12/20/2022 11:29:52 PM GIVE CHANGE $0.50 $0.00
+12/20/2022 11:29:52 PM Transaction : #1671600466175 status CLOSED
+12/20/2022 11:30:12 PM Displaying product...
+12/20/2022 11:30:34 PM Sales report generating...
+12/20/2022 11:30:34 PM Sales report generating done...
+12/20/2022 11:32:21 PM Vending Machine Turn off
+12/21/2022 12:43:55 AM Start vending machine !
+12/21/2022 01:22:49 AM Start vending machine !
+12/21/2022 01:22:56 AM Displaying product...
+12/21/2022 01:23:10 AM Transaction : #1671607390648 status OPEN
+12/21/2022 01:23:32 AM Transaction : #1671607390648 PENDING Customer option selection...
+12/21/2022 01:23:32 AM Feed Money
+12/21/2022 01:23:38 AM FEED MONEY($ONE) $1.00 $1.00
+12/21/2022 01:23:41 AM Transaction : #1671607390648 PENDING Customer option selection...
+12/21/2022 01:23:41 AM Feed Money
+12/21/2022 01:23:46 AM FEED MONEY(QUARTER) $0.25 $1.25
+12/21/2022 01:23:49 AM Transaction : #1671607390648 PENDING Customer option selection...
+12/21/2022 01:23:49 AM Select Product
+12/21/2022 01:24:00 AM failed selection of : Potato Crisps need more credit :$1.80
+12/21/2022 01:24:03 AM Transaction : #1671607390648 PENDING Customer option selection...
+12/21/2022 01:24:03 AM Feed Money
+12/21/2022 01:24:06 AM FEED MONEY(QUARTER) $0.25 $1.50
+12/21/2022 01:24:10 AM Transaction : #1671607390648 PENDING Customer option selection...
+12/21/2022 01:24:10 AM Select Product
+12/21/2022 01:24:17 AM 304 Heavy $1.50 $0.00
+12/21/2022 01:24:20 AM Transaction : #1671607390648 PENDING Customer option selection...
+12/21/2022 01:24:20 AM Finish Transaction
+12/21/2022 01:24:20 AM GIVE CHANGE $0.00 $0.00
+12/21/2022 01:24:20 AM Transaction : #1671607390648 status CLOSED
+12/21/2022 01:24:25 AM Vending Machine Turn off
+12/21/2022 01:24:40 AM Start vending machine !
+12/21/2022 01:59:40 AM FEED MONEY($FIVE) $5.00 $5.00
+12/21/2022 01:59:40 AM FEED MONEY(DIME) $0.10 $0.10
+12/21/2022 01:59:40 AM FEED MONEY(QUARTER) $0.25 $0.25
+12/21/2022 01:59:40 AM FEED MONEY(QUARTER) $0.25 $0.50
+12/21/2022 01:59:40 AM FEED MONEY(PENNY) $0.01 $0.51
+12/21/2022 01:59:40 AM FEED MONEY(PENNY) $0.01 $0.52
+12/21/2022 02:00:04 AM FEED MONEY($FIVE) $5.00 $5.00
+12/21/2022 02:00:04 AM FEED MONEY(DIME) $0.10 $0.10
+12/21/2022 02:00:04 AM FEED MONEY(QUARTER) $0.25 $0.25
+12/21/2022 02:00:04 AM FEED MONEY(QUARTER) $0.25 $0.50
+12/21/2022 02:00:04 AM FEED MONEY(PENNY) $0.01 $0.51
+12/21/2022 02:00:04 AM FEED MONEY(PENNY) $0.01 $0.52
+12/21/2022 03:01:59 AM Start vending machine !
+12/21/2022 03:02:05 AM Displaying product...
+12/21/2022 03:02:12 AM Transaction : #1671613332056 status OPEN
+12/21/2022 03:02:15 AM Transaction : #1671613332056 PENDING Customer option selection...
+12/21/2022 03:02:15 AM Feed Money
+12/21/2022 03:02:22 AM FEED MONEY($FIFTY) $0.00 $0.00
+12/21/2022 03:02:27 AM Transaction : #1671613332056 PENDING Customer option selection...
+12/21/2022 03:02:27 AM Feed Money
+12/21/2022 03:02:33 AM FEED MONEY($ONE) $1.00 $1.00
+12/21/2022 03:02:36 AM Transaction : #1671613332056 PENDING Customer option selection...
+12/21/2022 03:02:36 AM Feed Money
+12/21/2022 03:02:41 AM FEED MONEY(QUARTER) $0.25 $1.25
+12/21/2022 03:02:44 AM Transaction : #1671613332056 PENDING Customer option selection...
+12/21/2022 03:02:44 AM Feed Money
+12/21/2022 03:02:47 AM FEED MONEY(QUARTER) $0.25 $1.50
+12/21/2022 03:02:52 AM Transaction : #1671613332056 PENDING Customer option selection...
+12/21/2022 03:02:52 AM Select Product
+12/21/2022 03:02:58 AM 304 Heavy $1.50 $0.00
+12/21/2022 03:03:03 AM Transaction : #1671613332056 PENDING Customer option selection...
+12/21/2022 03:03:03 AM Select Product
+12/21/2022 03:03:06 AM failed selection of : Triplemint need more credit :$0.75
+12/21/2022 03:03:18 AM Transaction : #1671613332056 PENDING Customer option selection...
+12/21/2022 03:03:18 AM java
+12/21/2022 03:03:21 AM Transaction : #1671613332056 PENDING Customer option selection...
+12/21/2022 03:03:21 AM Feed Money
+12/21/2022 03:03:33 AM FEED MONEY($FIVE) $5.00 $5.00
+12/21/2022 03:03:35 AM Transaction : #1671613332056 PENDING Customer option selection...
+12/21/2022 03:03:35 AM Select Product
+12/21/2022 03:03:44 AM 301 Cola $1.75 $3.25
+12/21/2022 03:03:49 AM Transaction : #1671613332056 PENDING Customer option selection...
+12/21/2022 03:03:49 AM Select Product
+12/21/2022 03:04:08 AM 304 Heavy $1.50 $1.75
+12/21/2022 03:04:11 AM Transaction : #1671613332056 PENDING Customer option selection...
+12/21/2022 03:04:11 AM Select Product
+12/21/2022 03:04:16 AM 404 Triplemint $0.75 $1.00
+12/21/2022 03:04:19 AM Transaction : #1671613332056 PENDING Customer option selection...
+12/21/2022 03:04:19 AM Finish Transaction
+12/21/2022 03:04:19 AM GIVE CHANGE $1.00 $0.00
+12/21/2022 03:04:19 AM Transaction : #1671613332056 status CLOSED
+12/21/2022 03:04:28 AM Sales report generating...
+12/21/2022 03:04:28 AM Sales report generating done...
+12/21/2022 03:04:35 AM Vending Machine Turn off
+12/21/2022 10:58:03 AM Start vending machine !
+12/21/2022 10:58:11 AM Displaying product...
+12/21/2022 10:58:23 AM Transaction : #1671641903083 status OPEN
+12/21/2022 10:58:31 AM Transaction : #1671641903083 PENDING Customer option selection...
+12/21/2022 10:58:31 AM Feed Money
+12/21/2022 10:58:35 AM FEED MONEY($FIVE) $5.00 $5.00
+12/21/2022 10:59:03 AM Transaction : #1671641903083 PENDING Customer option selection...
+12/21/2022 10:59:03 AM Select Product
+12/21/2022 10:59:17 AM Option menu error :For input string: "303 "
+12/21/2022 10:59:30 AM Start vending machine !
+12/21/2022 10:59:34 AM Displaying product...
+12/21/2022 10:59:36 AM Transaction : #1671641976540 status OPEN
+12/21/2022 10:59:38 AM Transaction : #1671641976540 PENDING Customer option selection...
+12/21/2022 10:59:38 AM Feed Money
+12/21/2022 10:59:42 AM FEED MONEY($FIVE) $5.00 $5.00
+12/21/2022 10:59:45 AM Transaction : #1671641976540 PENDING Customer option selection...
+12/21/2022 10:59:45 AM Select Product
+12/21/2022 10:59:50 AM 203 Wonka Bar $1.50 $3.50
+12/21/2022 10:59:52 AM Transaction : #1671641976540 PENDING Customer option selection...
+12/21/2022 10:59:52 AM Select Product
+12/21/2022 10:59:53 AM 203 Wonka Bar $1.50 $2.00
+12/21/2022 11:00:06 AM Transaction : #1671641976540 PENDING Customer option selection...
+12/21/2022 11:00:06 AM Finish Transaction
+12/21/2022 11:00:06 AM GIVE CHANGE $2.00 $0.00
+12/21/2022 11:00:06 AM Transaction : #1671641976540 status CLOSED
+12/21/2022 11:00:15 AM Sales report generating...
+12/21/2022 11:00:15 AM Sales report generating done...
+12/21/2022 11:00:20 AM Vending Machine Turn off
+12/21/2022 11:53:51 AM Start vending machine !
+12/21/2022 11:53:55 AM Displaying product...

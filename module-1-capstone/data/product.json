@@ -1,0 +1,18 @@
+[
+  {"item":"Chip","code":101,"name":"Potato Crisps","id":101,"price": 3.05},
+  {"item":"Chip","code":102,"name":"Stackers","id":102,"price": 1.45},
+  {"item":"Chip","code":103,"name":"Grain Waves","id":103,"price": 2.75},
+  {"item":"Chip","code":104,"name":"Cloud Popcorn","id":104,"price": 3.65},
+  {"item":"Candy","code":201,"name":"Moonpie","id":105,"price": 1.80},
+  {"item":"Candy","code":202,"name":"Cowtales","id":106,"price": 1.50},
+  {"item":"Candy","code":203,"name":"Wonka Bar","id":107,"price": 1.50},
+  {"item":"Candy","code":204,"name":"Crunchie","id":107,"price": 1.75},
+  {"item":"Drink","code":301,"name":"Cola","id":109,"price": 1.75},
+  {"item":"Drink","code":302,"name":"Dr. Salt","id":110,"price": 1.25},
+  {"item":"Drink","code":303,"name":"Mountain Melter","id":111,"price": 1.50},
+  {"item":"Drink","code":304,"name":"Heavy","id":112,"price": 1.50},
+  {"item":"Gum","code":401,"name":"U-Chews","id":114,"price": 0.85},
+  {"item":"Gum","code":402,"name":"Little League Chew","id":115,"price": 0.95},
+  {"item":"Gum","code":403,"name":"Chiclets","id":116,"price": 0.75},
+  {"item":"Gum","code":404,"name":"Triplemint","id":117,"price": 0.75}
+]
